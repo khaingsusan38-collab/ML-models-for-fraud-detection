@@ -91,7 +91,7 @@ downstream studies).
 
 ---
 
-## Open Questions / Areas for Further Investigation
+## Areas for Further Investigation
 
 - Exact unit of measurement for velocity features (seconds, minutes, or normalised rate) is
   not specified in public documentation — flagged for literature review.
