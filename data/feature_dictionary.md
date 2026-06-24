@@ -101,6 +101,3 @@ downstream studies).
   cannot be recovered from public documentation; treated as a dataset limitation in this study.
 
 ---
-
-*Compiled by: Khaing Su San (Pearl) — MSc Data Science, UWE Bristol*
-*Last updated: 21 June 2026*
