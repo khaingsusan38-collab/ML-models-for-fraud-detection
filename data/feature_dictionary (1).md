@@ -5,7 +5,7 @@
 **Official repo:** [feedzai/bank-account-fraud](https://github.com/feedzai/bank-account-fraud)
 
 This document records the meaning of every column in the dataset, compiled during EDA to support
-feature understanding ahead of model development (per supervision meeting feedback, June 2026).
+feature understanding ahead of model development.
 
 > **Note on categorical codes:** Several categorical features (e.g. `housing_status`,
 > `employment_status`, `device_os`, `payment_type`) use anonymised codes (e.g. `BA`, `BB`, `BC`)
@@ -121,9 +121,9 @@ feature understanding ahead of model development (per supervision meeting feedba
 
 ---
 
-## Open Questions / Limitations
+## Limitations
 
-- Exact unit of measurement for velocity features is not specified in public documentation —
+- Exact unit of measurement for velocity features is not specified in public documentation-
   values appear scaled/anonymised as part of the synthetic data generation process.
 - Real-world meaning behind anonymised categorical codes (e.g. `employment_status` = CB,
   `housing_status` = BC) cannot be recovered from public documentation; treated as a
@@ -132,5 +132,3 @@ feature understanding ahead of model development (per supervision meeting feedba
 
 ---
 
-*Compiled by: Khaing Su San (Pearl) — MSc Data Science, UWE Bristol*
-*Last updated: 11 July 2026*
