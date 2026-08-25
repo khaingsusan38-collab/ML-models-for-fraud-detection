@@ -1,3 +1,30 @@
+# Dataset
+
+This project uses the Bank Account Fraud (BAF) dataset introduced by
+Jesus et al. (2022). The Base dataset is used for the experiments.
+
+Due to the large file size, the CSV dataset is not stored directly in
+this GitHub repository. The dataset can be obtained from the original
+dataset source.
+
+## Dataset File
+
+- File used: `Base.csv`
+- Number of records: approximately 1 million
+- Target variable: `fraud_bool`
+- Dataset version: Base
+
+## Dataset Description
+
+The Bank Account Fraud (BAF) dataset is a synthetic dataset based on
+real-world bank account opening fraud patterns. It contains applicant,
+transaction, device, and behavioural features for fraud detection.
+
+**Dataset:** Bank Account Fraud (BAF) Dataset Suite (Jesus et al., 2022, NeurIPS)
+**Source:** [Kaggle — sgpjesus/bank-account-fraud-dataset-neurips-2022](https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022)
+**Official repo:** [feedzai/bank-account-fraud](https://github.com/feedzai/bank-account-fraud)
+
+
 # Feature Dictionary — Bank Account Fraud (BAF) Dataset
 
 **Dataset:** Bank Account Fraud (BAF) Dataset Suite (Jesus et al., 2022, NeurIPS)
