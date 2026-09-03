@@ -117,7 +117,3 @@ The three machine learning approaches are compared using the same held-out test 
 This repository contains the implementation developed for an MSc Data Science project at the University of the West of England (UWE Bristol).
 
 The repository is intended to provide a clear and reproducible record of the data analysis and machine learning workflow used in the project.
-
-## Reference
-
-Jesus, S., Pombal, J., Alves, D., Cruz, A.F., Saleiro, P., Ribeiro, R.P., Gama, J. and Bizarro, P. (2022) ‘Turning the tables: Biased, imbalanced, dynamic tabular datasets for ML evaluation’, *Advances in Neural Information Processing Systems*, 35.
