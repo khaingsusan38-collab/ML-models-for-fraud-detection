@@ -112,8 +112,6 @@ Contains the Jupyter notebooks used for exploratory data analysis, preprocessing
 
 The three machine learning approaches are compared using the same held-out test data. Based on the overall evaluation, **XGBoost was selected as the final model**, providing the strongest overall discrimination and ranking performance among the models investigated.
 
-## Academic Context
+## AI Assistance
 
-This repository contains the implementation developed for an MSc Data Science project at the University of the West of England (UWE Bristol).
-
-The repository is intended to provide a clear and reproducible record of the data analysis and machine learning workflow used in the project.
+ChatGPT and Claude AI were used to support code development, debugging and refinement across the project notebooks. All code included in this repository was reviewed, tested and adapted by the author.
